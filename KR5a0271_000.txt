@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:44:08.389736
-#+TITLE: 修真十書武夷集
-#+PROPERTY: DZID  DZ0263h
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，4—797 八卷 洞真部方法類
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
